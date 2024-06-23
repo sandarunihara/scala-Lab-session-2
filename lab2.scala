@@ -68,6 +68,7 @@ def netsalary(nw:Int,ot:Int):Double={
     salary(nw,ot)*0.88
 }
 
+// 04
 
 
 
