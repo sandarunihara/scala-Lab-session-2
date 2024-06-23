@@ -1,4 +1,4 @@
-// 01
+error id: file:///E:/2nd%20Year/Semester%201/FC/practicals/Lab%202/scala-Lab-session-2/lab2.scala:[758..761) in Input.VirtualFile("file:///E:/2nd%20Year/Semester%201/FC/practicals/Lab%202/scala-Lab-session-2/lab2.scala", "// 01
 def q1()={
     var i,j,k=2
     var m,n=5
@@ -28,31 +28,17 @@ def q1()={
 
 
 // 02
-def q2()={
-    var a:Int=2
-    var b:Int=3
-    var c:Int=4
-    var d:Int=5
-    var k:Float=4.3f
+def 
+var a:Int=2
+var b:Int=3
+var c:Int=4
+var d:Int=5
+var k:Float=4.3f
+")
+file:///E:/2nd%20Year/Semester%201/FC/practicals/Lab%202/scala-Lab-session-2/lab2.scala
+file:///E:/2nd%20Year/Semester%201/FC/practicals/Lab%202/scala-Lab-session-2/lab2.scala:32: error: expected identifier; obtained var
+var a:Int=2
+^
+#### Short summary: 
 
-    var g:Int=1
-    
-    // a.
-    b-=1
-    println(b*a+c*d)
-    d-=1
-    // b.
-     println(a);
-    a+=1
-    // c.
-    println(-2*(g-k)+c)
-    // d.
-    c+=1
-    println(c)
-    // e.
-    c+=1
-    println(c*a)
-
-}
-
-
+expected identifier; obtained var
