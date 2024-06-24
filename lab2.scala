@@ -39,23 +39,23 @@ def q2()={
     
     // a.println( - -b * a + c *d - -);
     b-=1
-    println(b*a+c*d)
+    println(s"( - -b * a + c *d - -) : ${b*a+c*d}")
     d-=1
 
     // b.println(a++);
-     println(a);
+     println(s"a++ : $a");
     a+=1
 
     // c.println (–2 * ( g – k ) +c);
-    println(-2*(g-k)+c)
+    println(s"(–2 * ( g – k ) +c) : ${-2*(g-k)+c}")
 
     // d.println (c=c++);
-    println(c)
+    println(s"c=c++ : $c")
     c+=1
 
     // e.println (c=++c*a++);
     c+=1
-    println(c*a)
+    println(s"c=++c*a++ : ${c*a}")
 
 }
 
