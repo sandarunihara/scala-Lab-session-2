@@ -1116,3 +1116,28 @@ WARNING: Unmatched cancel notification for request id 75
 2024.06.24 10:56:26 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
 Jun 24, 2024 10:57:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.06.24 11:10:51 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:56 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:56 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:56 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:56 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:57 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:57 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:57 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:57 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:57 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:58 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:59 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:59 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:10:59 WARN  no build target for: E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala
+2024.06.24 11:10:59 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:12:00 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:12:00 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:16:12 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:16:36 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:22:55 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:26:51 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:31:36 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\New folder\scala-Lab-session-2\lab2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 11:33:22 INFO  Shutting down server
+2024.06.24 11:33:22 INFO  shutting down Metals
+2024.06.24 11:33:22 INFO  Exiting server
