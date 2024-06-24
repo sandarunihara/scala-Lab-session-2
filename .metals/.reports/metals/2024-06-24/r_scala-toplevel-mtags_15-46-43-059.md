@@ -1,4 +1,4 @@
-// 01
+error id: file:///E:/2nd%20Year/Semester%201/FC/practicals/New%20folder/scala-Lab-session-2/lab2.scala:[1354..1354) in Input.VirtualFile("file:///E:/2nd%20Year/Semester%201/FC/practicals/New%20folder/scala-Lab-session-2/lab2.scala", "// 01
 def q1()={
     var i,j,k=2
     var m,n=5
@@ -69,24 +69,15 @@ def netsalary(nw:Int,ot:Int):Double={
 }
 
 // 04
-def attendence(price:Int):Int={
-    120+(15-price)/5*20
-}
-
-def revenue(price:Int):Int={
-    attendence(price)*price
-}
-
-def cost(price:Int):Int={
-    500+attendence(price)*3
-}
-
-def profit(price:Int):Int={
-    revenue(price)-cost(price)
-}
+def
 
 
 
+")
+file:///E:/2nd%20Year/Semester%201/FC/practicals/New%20folder/scala-Lab-session-2/lab2.scala
+file:///E:/2nd%20Year/Semester%201/FC/practicals/New%20folder/scala-Lab-session-2/lab2.scala:76: error: expected identifier; obtained eof
 
+^
+#### Short summary: 
 
-
+expected identifier; obtained eof
