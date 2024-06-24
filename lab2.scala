@@ -2,8 +2,8 @@
 def q1()={
     var i,j,k=2
     var m,n=5
-    var f=12.0f
     var g=4.0f
+    var f=12.0f
     var c='X'
 
     println(k + 12 * m)
@@ -39,7 +39,7 @@ def q2()={
     
     // a.println( --b * a + c *d --);
     b-=1
-    println(s"( - -b * a + c *d - -) : ${b*a+c*d}")
+    println(s"( --b * a + c *d --) : ${b*a+c*d}")
     d-=1
 
     // b.println(a++);
