@@ -17,7 +17,7 @@ def q1()={
 
 
 // Scala supports all functional programming concepts. 
-//Java 8 introduced some functional programming features but does not support all FP concepts. 
+//Java  introduced some functional programming features but does not support all FP concepts. 
 
 // Java: Java is a statically typed, object-oriented programming language
 // Scala: Scala is also statically typed but combines object-oriented and functional programming paradigms
@@ -37,7 +37,7 @@ def q2()={
 
     var g:Int=1
     
-    // a.println( - -b * a + c *d - -);
+    // a.println( --b * a + c *d --);
     b-=1
     println(s"( - -b * a + c *d - -) : ${b*a+c*d}")
     d-=1
@@ -47,7 +47,7 @@ def q2()={
     a+=1
 
     // c.println (–2 * ( g – k ) +c);
-    println(s"(–2 * ( g – k ) +c) : ${-2*(g-k)+c}")
+    println(s"(-2 * ( g - k ) +c) : ${-2*(g-k)+c}")
 
     // d.println (c=c++);
     println(s"c=c++ : $c")
