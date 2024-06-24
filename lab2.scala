@@ -69,7 +69,7 @@ def netsalary(nw:Int,ot:Int):Double={
 }
 
 // 04
-
+var x=12
 
 
 
