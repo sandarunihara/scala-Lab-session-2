@@ -50,8 +50,8 @@ def q2()={
     println(-2*(g-k)+c)
 
     // d.println (c=c++);
-    c+=1
     println(c)
+    c+=1
 
     // e.println (c=++c*a++);
     c+=1
